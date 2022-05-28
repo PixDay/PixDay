@@ -23,7 +23,7 @@ I'm a software engineer enthousiaste, that love learning new technologies and wo
 
 ## My Setup :
 
-### Laptor:
+### Laptop:
 
 ![razer](https://img.shields.io/badge/razer%20laptop-44D62D?style=for-the-badge&logo=razer&logoColor=252525)
 ![CPU](https://img.shields.io/badge/intel%20core%20I7%2010th%20GEN-%230071C5.svg?&style=for-the-badge)
